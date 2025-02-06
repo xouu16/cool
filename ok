@@ -44,10 +44,10 @@ shared.Saved = {
 			},
 
 			['W​​​​​​​​​​​​​​​e​​​​​​​​​​​​​​​a​​​​​​​​​​​​​​​p​​​​​​​​​​​​​​​o​​​​​​​​​​​​​​​n​​​​​​​​​​​​​​​s'] = {
-				'[Revolver]',
+			'[Double-Barrel SG]',
+                              '[Revolver]',
 				'[Rifle]',
-				'[Silencer]',
-				'[Double-Barrel SG]'
+				'[Silencer]'
 			}
 		},
 
