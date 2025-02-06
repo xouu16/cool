@@ -157,9 +157,9 @@ shared.Saved = {
 		},
 
 		['F​​​​​​​​​​​​​​​O​​​​​​​​​​​​​​​V'] = {
-			['X'] = 4,
-			['Y'] = 4,
-			['Z'] = 4
+			['X'] = 1000,
+			['Y'] = 1000,
+			['Z'] = 1000
 		},
 	},
 
@@ -196,27 +196,27 @@ shared.Saved = {
 
 			['W​​​​​​​​​​​​​​​e​​​​​​​​​​​​​​​a​​​​​​​​​​​​​​​p​​​​​​​​​​​​​​​o​​​​​​​​​​​​​​​n​​​​​​​​​​​​​​​s'] = {
 				['[Double-Barrel SG]'] = {
-					Multiplier = 0
+					Multiplier = 10
 				},
 
 				['[TacticalShotgun]'] = {
-					Multiplier = 0
+					Multiplier = 10
 				},
 
 				['[Revolver]'] = {	
-					Multiplier = 0
+					Multiplier = 10
 				},
 
 				['[AUG]'] = {
-					Multiplier = 0
+					Multiplier = 10
 				},
 
 				['[Silencer]'] = {
-					Multiplier = 0
+					Multiplier = 10
 				},
 
 				['[Glock]'] = {
-					Multiplier = 0
+					Multiplier = 10
 				},
 			}
 		},
